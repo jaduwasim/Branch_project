@@ -1,2 +1,3 @@
 This line added form master Branch
+This line added from New Branch
 This line addded after creating new branch
